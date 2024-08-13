@@ -3,7 +3,9 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/devcharles/fortify-sanctum.svg?style=flat-square)](https://packagist.org/packages/devcharles/fortify-sanctum)
 [![Total Downloads](https://img.shields.io/packagist/dt/devcharles/fortify-sanctum.svg?style=flat-square)](https://packagist.org/packages/devcharles/fortify-sanctum)
 [![GitHub Issues](https://img.shields.io/github/issues/dev-charles15531/fortify-sanctum.svg?style=flat-square)](https://github.com/dev-charles15531/fortify-sanctum/issues)
-[![License](https://img.shields.io/packagist/l/devcharles/fortify-sanctum.svg?style=flat-square)](https://packagist.org/packages/devcharles/fortify-sanctum)
+[![License](https://img.shields.io/github/license/dev-charles15531/fortify-sanctum
+)](https://img.shields.io/github/license/dev-charles15531/fortify-sanctum
+)
 
 Easily integrate Laravel Fortify's authentication features with Laravel Sanctum for API token authentication — **Zero Config!** 🎉
 
