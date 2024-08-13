@@ -11,7 +11,8 @@
     ],
     "require": {
         "laravel/fortify": "^1.21",
-        "laravel/sanctum": "^4.0"
+        "laravel/sanctum": "^4.0",
+        "illuminate/support": "^10.0|^11.0"
     },
     "autoload": {
         "psr-4": {
