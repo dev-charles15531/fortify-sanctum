@@ -1,0 +1,28 @@
+{
+    "name": "devcharles/fortify-sanctum",
+    "description": "A zero config laravel package to use fortify flavours in sanctum.",
+    "keywords": ["laravel", "auth", "sanctum", "fortify", "fortify-sanctum"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charles Paul",
+            "email": "dev.charles15531@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/fortify": "^1.21",
+        "laravel/sanctum": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devcharles\\FortifySanctum\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Devcharles\\FortifySanctum\\FortifySanctumServiceProvider"
+            ]
+        }
+    }
+}
